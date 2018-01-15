@@ -1,2 +1,4 @@
 # js_objects
-this is a js example of inheritence and protypes with data hiding and delegation
+
+
+This is a JavaScript example of inheritance and prototypes with data hiding and delegation. The subject was dogs as the object and the properties and methods set for dogs and Dalmatians. 
